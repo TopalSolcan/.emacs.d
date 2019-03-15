@@ -1,0 +1,42 @@
+((("set-face-background" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("linum" .
+   [2 0 0 0 0])
+  ("set-face-foreground" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("yas-global-mode" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("yasnippet" .
+   [0 0 0 0 0 0 1 0 1])
+  ("require" .
+   [0 0 0 0 0 0 2])
+  ("defun" .
+   [0 0 0 0 1])
+  ("auto" .
+   [1 0 0 0])
+  ("auto-complete" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("auto-complete-c-headers" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("add-hook" .
+   [0 0 0 0 0 1 0 1])
+  ("c++-mode-syntax-table" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("c++-mode-hook" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("my:acc-c-header-init" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("c-mode-hook" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("add-to-list" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("include" .
+   [0 0 0 0 0 0 1])
+  ("stdio" .
+   [0 0 0 1 0])
+  ("printf" .
+   [5 0 0 0 0 2])
+  ("deneme_y" .
+   [0 0 0 0 0 1 0 1])
+  ("deneme_x" .
+   [1 0 0 0 0 0 0 0])))

@@ -1,0 +1,2 @@
+;;; -*- no-byte-compile: t -*-
+(define-package "addressbook-bookmark" "20171108.634" "An address book based on Standard Emacs bookmarks." '((emacs "24")) :commit "981355dcfb7477c00d41560a5a66fce73f02c0f5" :authors '(("Thierry Volpiatto" . "thierry.volpiatto@gmail.com")) :maintainer '("Thierry Volpiatto" . "thierry.volpiatto@gmail.com") :url "https://github.com/thierryvolpiatto/addressbook-bookmark")
