@@ -151,7 +151,7 @@
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
    (quote
-    (auto-complete-c-headers yasnippet auto-complete xclip tramp-theme python-mode python-info helm-themes helm-pydoc helm-gitignore helm-git helm-emmet helm-directory helm-dictionary helm-ag-r helm-ag helm-addressbook helm-ad helm-ack ahungry-theme))))
+    (flycheck auto-complete-c-headers yasnippet auto-complete xclip tramp-theme python-mode python-info helm-themes helm-pydoc helm-gitignore helm-git helm-emmet helm-directory helm-dictionary helm-ag-r helm-ag helm-addressbook helm-ad helm-ack ahungry-theme))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
